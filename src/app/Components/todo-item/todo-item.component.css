@@ -1,0 +1,9 @@
+.strike {
+    text-decoration: line-through;
+}
+
+.fading {
+    /* background-color: #e0e0eb; */
+    background-color: #f2f2f2;
+    
+}

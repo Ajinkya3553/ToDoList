@@ -1,0 +1,16 @@
+https://www.youtube.com/watch?v=0LhBvp8qpro
+Video Bookmark :
+53:40 = Extensions for vs code
+1:25: 00 = current
+
+
+Watch Later:
+Event handling, Event emitter
+localStorage.setItem("todos", JSON.stringify(this.todos));
+
+
+Command to build for production
+ng build --configuration production 
+
+
+
